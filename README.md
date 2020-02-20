@@ -13,3 +13,5 @@ Todas essas três ultimas com tipos de dado text.
 
 Para iniciar o servidor local você precisa rodar o comando "npm start" na linha de comando dentro da pasta do projeto, 
 para isso você precisará do node.js em sua maquina.
+
+Linkedin [Rodrigo Silva](https://www.linkedin.com/in/rodrigo-silva-579943138/)
